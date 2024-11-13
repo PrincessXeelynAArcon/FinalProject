@@ -99,29 +99,3 @@
             box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
         }
     </style>
-</head>
-<body>
-
-<header>
-    <h1>Edu-Quality</h1>
-    <nav>
-        <a href="#about">About</a>
-        <a href="#articles">Articles</a>
-        <a href="#contact">Contact Company</a>
-        <a href="#researches">Researches</a>
-        <a href="#images">Images</a>
-    </nav>
-</header>
-
-<main>
-    <section id="info">
-      <h2>Edu-Quality</h2>
-    </section>
-  <img src="https://i.pinimg.com/564x/1b/dd/e2/1bdde28b60354529dd238ceab7bccdc7.jpg" alt="img" id="school-pic" />
-</main>
-  <header>
-  
-  
-
-</body>
-</html>
