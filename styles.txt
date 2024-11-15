@@ -47,7 +47,8 @@
         }
 
         nav a:hover {
-            color: #6dd5ed; 
+            background-color: #D4F6FF;
+            font-size: 18px;
         }
 
         main {
