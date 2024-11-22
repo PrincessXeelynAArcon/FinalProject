@@ -82,6 +82,12 @@
             margin-top: 20px;
             line-height: 1.6; 
         }
+        
+        .sprite {
+          	background: url('imgs/twitter-logo-of-new-style-and-original-style-social-media-and-popular-news-with-people-connected-by-internet-global-networks-free-vector.jpg') no-repeat -760px -184px;
+           	width: 33px;
+          	height: 33px;
+        }
 
           #school-pic {
             width: 1000px; 
